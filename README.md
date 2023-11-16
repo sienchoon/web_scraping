@@ -29,27 +29,34 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 ## ✅ Getting Started 
 ### 🛠️ Installation
 Run following command in Git Bash terminal: 
+#### PYTHON
 * Install Beautiful Soup <br/>
 The package name is `beautifulsoup4` and the same package works on Python 3
-1.      # Python
+
+
         $pip install beautifulsoup4
-        # conda
+* Install Splinter
+
+        $python -m pip install splinter    
+
+* Install Pandas
+
+        $pip install pandas 
+
+### Conda          
+
+* Install Beautiful Soup <br/>
+
         $conda install -c anaconda beautifulsoup4
+
 
 * Install Splinter
 
-2.      # Python
-        $python -m pip install splinter
-        # conda
         $conda install -c auto splinter
 
 * Install Pandas
 
-3.      # Python 
-        $pip install pandas 
-        # conda
         $conda install -c conda-forge pandas
-
 
 <br/>
 
